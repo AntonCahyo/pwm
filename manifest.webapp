@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "name": "musik player",
+  "launch_path": "/index.html",
+  "description": "Play Musik",
+  "icons": {
+    "128": "./assets/img/touch/icon128.png"
+  },
+  "developer": {
+    "name": "Agik Syah",
+    "url": "https://www.codepolitan.com/coder/nocturnalgate"
+  },
+  "recode by": {
+    "name": "Fredric Lesomar",
+    "url": "https://fredriclesomar.github.io"
+  },
+  
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "my Vinyl",
+      "description": "Play Vinyl"
+    }
+  }
+}
